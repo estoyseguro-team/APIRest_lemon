@@ -1,0 +1,31 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgb(234, 234, 234);
+  }
+  .contenido{
+    display: grid;
+    justify-content: center;
+  }
+  input {
+    font-size: 32px;
+    border-radius: 0.5rem;
+    box-shadow: 0rem 0rem 2rem 0rem white;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+  }
+
+  .text-center{
+    text-align: center;
+  }
+
+  button {
+    background-color: #008400;
+    padding: 1rem 3rem;
+    border-radius: 0.5rem;
+    color: white;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #00c100;
+  }
+
